@@ -8,10 +8,14 @@ Economics<br />⚡ Fun fact: My name was picked from a hat.
 [![Stack
 Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8210402)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xArsen)
-# 💻 Programming Languages I Have Used
+# 💻 Programming Languages
 | Typescript | Javascript | Python | Solidity | Go |
 | ---------- | ---------- | ------ | -------- | -- |
-# AWS Services I Have Used
+# Blockchain Technologies
+| Hardhat | Foundry | Ethers.js | Infura | Alchemy | 
+| ------- | ------- | --------- | ------ | ------- | 
+| OpenZeppelin | Optimism | ZkSync | 
+# AWS Services
 | EC2 | Lambda | ECS | DynamoDB | EKS | ECR | SQS | 
 | -------- | ------ | --- | --- | --- | --- | --- |
 | SNS | ElastiCache | S3 | Cloudfront | RDS | IAM | EFS | Cloudwatch | Route 53 |

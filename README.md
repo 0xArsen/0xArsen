@@ -1,7 +1,7 @@
 # 💫 About Me: 
 🔭 Currently working on Golden.xyz, Smart Contracts,
 Blockchains<br />🤝 Looking for help with Front-end and Zero Knowledge<br />🌱
-Currently learning random Blockchain topics, MEV, Evolutionary Psychology, Behavioral
+Currently learning random Blockchain topics, MEV, Econ, Finance.
 Economics<br />⚡ Fun fact: My name was picked from a hat. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsen-akishev)

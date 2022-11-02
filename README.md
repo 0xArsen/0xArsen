@@ -5,8 +5,7 @@ Currently learning random Blockchain topics, MEV, Econ, Finance.
 Economics<br />⚡ Fun fact: My name was picked from a hat. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsen-akishev)
-[![Stack
-Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8210402)
+[![Ethereum Stack Exchange](https://img.shields.io/badge/-Ethereum_Stack_Exchange-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/8210402](https://ethereum.stackexchange.com/users/72335/arsen-akishev))
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xArsen)
 # 💻 Programming Languages
 | Typescript | Javascript | Python | Solidity | Go |
